@@ -2,7 +2,9 @@
 
 A free Claude skill for the back-of-envelope underwriting of small and midsize multifamily deals (2 to 50 units). Give it a listing, rent comps, and today's interest rate, and it rebuilds the income and expenses, sizes the debt, and returns a go or no-go verdict. If the deal fails at the asking price, it solves backward for the highest price where the deal works, so you have a number to bring to the broker.
 
-This is the same first-pass process we use at [Galleon](https://galleon.io) on every multifamily deal. It is meant to decide whether a deal deserves more of your time. It does not replace full due diligence.
+This is the same first-pass process I used personally on every multifamily I'm weighing (as an individual investor); and some of what we've baked into as quick option in Operator, the flagship product at [Galleon](https://galleon.io). 
+
+It is meant to decide whether a deal deserves more of your time. It does not replace full due diligence.
 
 ## What the skill handles
 
